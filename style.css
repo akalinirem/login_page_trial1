@@ -27,8 +27,66 @@ body{
   height: 34px;
   margin-right: 320px;
   margin-top: 37px;
-
 }
+.fidauth2{
+  width: 525px;
+  height: 543px;
+  margin-left: 94px;
+  margin-top: -18px;
+}
+.rectangle p {
+  font-size: 30px;
+  color: #5A61FF;
+  text-align: center;
+  margin-top: 90px;
+  margin-left: -37px;
+  font-family: Arial, sans-serif; 
+}
+.login-form input[type="email"] {
+  width: 75%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 16px;
+  margin-top: 34px;
+}
+
+.login-form input[type="email"]:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+.password-form input[type="password"] {
+  width: 75%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 16px;
+  margin-top: 27px;
+}
+
+.password-form input[type="password"]:focus {
+  outline: none;
+  border-color: #007bff;
+}
+.bt-login{
+  width: 75%;
+  padding: 10px;
+  background-color: #5A61FF;
+  border: 1px solid #5A61FF;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 16px;
+  margin-top: 29px;
+  font-family: Arial, sans-serif; 
+}
+.bt-login {
+  color: #ffffff;
+}
+
+
 
 
 
