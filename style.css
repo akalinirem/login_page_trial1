@@ -1,0 +1,41 @@
+body{
+  box-sizing: border-box;
+  font-family: Lato, Arial;
+  text-align: center;
+  color: #eee;
+  background-color: #DDF3FF;
+}
+.rectangle{
+  position: absolute;
+  width: 418px;
+  height: 579px;
+  background: #FFFFFF;
+  margin-left: 990px;
+  margin-right: 18px;
+  margin-top: 191px;
+}
+.rectangle2{
+  position: absolute;
+  width: 537px;
+  height: 579px;
+  background: #F0F8FF;
+  margin-left: 453px;
+  margin-top: 191px;
+}
+.fidauth1{
+  width: 109px;
+  height: 34px;
+  margin-right: 320px;
+  margin-top: 37px;
+
+}
+
+
+
+
+
+
+
+
+
+
