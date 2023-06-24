@@ -1,0 +1,94 @@
+body {
+    box-sizing: border-box;
+    font-family: Lato, Arial;
+    text-align: center;
+    color: #eee;
+    background-color: #DDF3FF;
+}
+
+.rectangle2 {
+    position: absolute;
+    width: 537px;
+    height: 579px;
+    background: #F0F8FF;
+    margin-left: 870px;
+    margin-top: 191px;
+   
+
+}
+.rectangle {
+    position: absolute;
+    width: 418px;
+    height: 579px;
+    background: #FFFFFF;
+    margin-left: 453px;
+    margin-right: 18px;
+    margin-top: 191px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.fidauth1 {
+    width: 109px;
+    height: 34px;
+    margin-left: 320px;
+    margin-top: 37px;
+}
+
+.fidauth2 {
+    width: 525px;
+    height: 543px;
+    margin-right: -5px;
+    margin-top: -18px;
+    transform: translateX(-11%);
+}
+
+.rectangle h1 {
+    font-size: 30px;
+    color: #5A61FF;
+    text-align: center;
+    margin-top: 90px;
+    margin-left: -37px;
+    font-family: Arial, sans-serif; 
+}
+
+.rectangle h1 {
+    font-size: 30px;
+    color: #5A61FF;
+    text-align: center;
+    margin-top: -45px;
+}
+
+.signup-form input[type="text"],
+.signup-form input[type="email"],
+.signup-form input[type="password"],
+.signup-form input[type="confirm-password"] {
+    width: 75%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.signup-form .bt-signup {
+    width: 75%;
+    padding: 10px;
+    background-color: #5A61FF;
+    border: 1px solid #5A61FF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: #fff;
+}
+
+.login-link {
+    margin-top: 10px;
+}
+
+.login-link a {
+    text-decoration: none;
+    color: #666;
+}
